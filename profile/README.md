@@ -2,7 +2,6 @@
 
 This organization contains academic programming projects developed during the **Computer Engineering degree** at the **University of Salamanca**.
 
----
 
 ## 👥 Authors
 
@@ -12,7 +11,6 @@ Computer Engineering Student
 **Rubén Hernández Molina**
 Computer Engineering Student
 
----
 
 ## 🎓 Academic Context
 
@@ -26,7 +24,6 @@ These repositories are intended to showcase the implementation of concepts such 
 * Software architecture
 * ...
 
----
 
 ## 📫 Contact
 
