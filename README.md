@@ -31,7 +31,7 @@ These repositories are intended to showcase the implementation of concepts such 
 ## 📫 Contact
 
 David Lavado González
-📧 [davidlavgonz@hotmail.com](mailto:davidlavgonz@hotmail.com)
+📧 [davidlavgonz@hotmail.com](mailto:david.lavadog@gmail.com)
 
 Rubén Hernández Molina
 📧 [hm04ruben@gmail.com](mailto:hm04ruben@gmail.com)
